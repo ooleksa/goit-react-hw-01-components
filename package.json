@@ -1,5 +1,6 @@
 {
   "name": "goit-react-hw-01-components",
+  "homepage": "https://lelik4w.github.io/goit-react-hw-01-components/",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
